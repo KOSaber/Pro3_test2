@@ -1,6 +1,6 @@
 # React Tourism App ..
 <br>
-<img src="https://github.com/KOSaber/Pro3_test2/blob/khadijah/img/image.png">
+<img src="https://github.com/KOSaber/Project3/blob/master/src/containers/img/image.png">
 <br>
 This website will be able to give you a nice tour and gerate idea of each country’s resources that help you decide where to spend your vacation .
 
