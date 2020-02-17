@@ -1,6 +1,6 @@
 # React Tourism App ..
 <br>
-<img src="https://github.com/KOSaber/Project3/blob/master/img/image.png">
+<img src="img/image.png">
 <br>
 This website will be able to give you a nice tour and gerate idea of each country’s resources that help you decide where to spend your vacation .
 
@@ -17,7 +17,7 @@ This website will be able to give you a nice tour and gerate idea of each countr
 ### wireframes :
 :point_right: Watch it 
 <br><br>
-<img src="https://github.com/KOSaber/Project3/blob/master/img/wireframe.jpg" width="350" height="450">
+<img src="img/wireframe.jpg" width="350" height="450">
 <br>
 ## Development Process and problem-solving strategy:
 - [x] Used waterfall methodology to build this app 
