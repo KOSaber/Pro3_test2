@@ -1,6 +1,6 @@
 # React Tourism App ..
 <br>
-<img src="https://github.com/KOSaber/Project3/blob/master/src/containers/img/image.png">
+<img src="https://github.com/KOSaber/Pro3_test2/blob/khadijah/img/image.png">
 <br>
 This website will be able to give you a nice tour and gerate idea of each country’s resources that help you decide where to spend your vacation .
 
@@ -15,11 +15,10 @@ This website will be able to give you a nice tour and gerate idea of each countr
 - [x] GitHub
 - [x] Json File(local database)
 ### wireframes :
-👉 Watch it 
+:point_right: Watch it 
 <br><br>
 <img src="https://github.com/KOSaber/Pro3_test2/blob/khadijah/img/wireframe.jpg" width="350" height="450">
 <br>
-
 ## Development Process and problem-solving strategy:
 - [x] Used waterfall methodology to build this app 
 - [x] Build a react app and a router.
@@ -28,7 +27,6 @@ This website will be able to give you a nice tour and gerate idea of each countr
 - [x] Passing data through components and router
 - [x] Passing data from one API to another API.
 - [x] Manpulating data and custmizing data
-
 ## Website Features components:
 - [x]  Home
 - [x]  Country
@@ -53,10 +51,8 @@ This website will be able to give you a nice tour and gerate idea of each countr
 - Hanin Nouh.
 - Khadijah Saber.
 - Mohammed Alamry.
+<br>
 
-<br>
 https://github.com/abinm670/Pro3_test2.
-<br>
 https://youtu.be/Dyy0ppwsZJ4
-<br> 
 http://goldendeveloper.herokuapp.com/
