@@ -37,7 +37,6 @@ class ContactUs extends Component {
   render() {
     return (
       <div>
-        {/* Home */}
         
         <div>
                 <div>
@@ -63,7 +62,7 @@ class ContactUs extends Component {
             <div className="row contact_content">
               <div className="col-lg-5">
                 <div className="contact_text">
-                  <p>.</p>
+                  <p></p>
                 </div>
                 <div className="contact_info">
                   <div className="contact_info_box">i</div>
